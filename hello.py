@@ -8,7 +8,7 @@ import random
 import datetime
 import pymysql
 import re
-
+#test
 application = Flask(__name__)
 application.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://u1087101_blog:qaz43454345@localhost/u1087101_blog'
 application.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
