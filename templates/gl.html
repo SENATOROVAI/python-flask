@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="UTF-8">
+        <title>Gl str</title>
+    </head>
+    <body>
+        <h1>Best Auth!</h1>
+        
+        {% block content %}
+            
+            {% for key, value in post.iteritems() %}
+            <p>
+                {{ value }}
+            </p>
+            {% endfor %}
+            
+            
+        {% endblock %}
+            
+        
+    </body>
+    
+</html>
