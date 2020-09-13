@@ -1,0 +1,19 @@
+{
+  "name": "python",
+  "version": "1.0.0",
+  "description": "python Senatorov",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Senatorov1/python.git"
+  },
+  "author": "Senatorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Senatorov1/python/issues"
+  },
+  "homepage": "https://github.com/Senatorov1/python#readme"
+}
