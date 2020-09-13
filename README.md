@@ -1,4 +1,4 @@
-# python3.8
+# SENATOROV & Ryize
 
 LET'S GO!
 
