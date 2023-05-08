@@ -1,4 +1,4 @@
-# SENATOROV & Ryize
+# SENATOROV & oleg
 
 LET'S GO!
 
